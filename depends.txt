@@ -1,0 +1,4 @@
+3d_armor?
+bones?
+chat_next?
+drop_on_death?
