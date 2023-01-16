@@ -2,3 +2,4 @@
 bones?
 chat_next?
 drop_on_death?
+death_messages?
